@@ -26,7 +26,6 @@ The following **optional** features are implemented:
 
 * [x] Improved the user interface through styling and coloring.
 * [x] Allow user to view details of the movie including ratings and popularity within a separate activity or dialog fragment.
-* [x] When viewing a popular movie (i.e. a movie voted for more than 5 stars) the video should show the full backdrop image as the layout.  Uses [Heterogenous ListViews](http://guides.codepath.com/android/Implementing-a-Heterogenous-ListView) or [Heterogenous RecyclerView](http://guides.codepath.com/android/Heterogenous-Layouts-inside-RecyclerView) to show different layouts.
 * [-] Allow video trailers to be played in full-screen using the YouTubePlayerView.
 * [x] Leverages the [data binding support module](http://guides.codepath.com/android/Applying-Data-Binding-for-Views) to bind data into layout templates.
 * [ ] Apply the popular [Butterknife annotation library](http://guides.codepath.com/android/Reducing-View-Boilerplate-with-Butterknife) to reduce boilerplate code.
